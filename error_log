@@ -1,0 +1,14 @@
+[06-Jan-2016 10:00:12 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wprmat.php on line 16
+[06-Jan-2016 10:00:12 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wpqitk.php on line 16
+[06-Jan-2016 10:00:13 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wp9lpf.php on line 16
+[06-Jan-2016 10:00:17 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wpswvb.php on line 16
+[07-Jan-2016 09:43:59 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wpldqa.php on line 16
+[07-Jan-2016 09:44:00 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wpqsyk.php on line 16
+[07-Jan-2016 09:44:00 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wpty2i.php on line 16
+[07-Jan-2016 09:44:04 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wpxico.php on line 16
+[07-Jan-2016 09:44:04 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wptusx.php on line 16
+[07-Jan-2016 09:44:04 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/raaga/public_html/deleteme.wpasvf.php on line 16
+[07-Jan-2016 09:44:14 UTC] PHP Fatal error:  Call to undefined function __() in /home/raaga/public_html/wp-admin/includes/file.php on line 16
+[07-Jan-2016 12:05:17 UTC] PHP Fatal error:  Call to undefined function __() in /home/raaga/public_html/wp-admin/includes/file.php on line 16
+[07-Jan-2016 12:05:17 UTC] PHP Fatal error:  Call to undefined function __() in /home/raaga/public_html/wp-admin/includes/file.php on line 16
+[07-Jan-2016 12:05:17 UTC] PHP Fatal error:  Call to undefined function __() in /home/raaga/public_html/wp-admin/includes/file.php on line 16
